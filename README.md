@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/icon/icon.png" width="120" height="120" alt="Whereable">
+  <img src="whereable_icon.png" width="120" height="120" alt="Whereable">
 </p>
 
 <h1 align="center">Whereable</h1>
