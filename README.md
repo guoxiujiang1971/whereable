@@ -4,6 +4,9 @@
 
 <h1 align="center">Whereable</h1>
 
+<h2>[Android Version](https://whereable.techbrain.online/)</h2>
+<h2>IOS version on App store</h2>
+
 <p align="center">
   <strong>Know where everything is. Instantly.</strong>
 </p>
@@ -33,7 +36,7 @@ Not a cluttered inventory manager. Not a glorified shopping list. A **location r
 ### 🔍 Search-First Home
 Open the app and find what you need in seconds. Results show exactly **where** the item is, along with a photo and when it was last used.
 
-### 👨‍👩‍👧‍👦 Family Sharing (iCloud)
+### 👨‍👩‍👧‍👦 Family Sharing (Supabase)
 Different Apple IDs, one shared database. Invite your family via iMessage — everyone sees the same items in real time. Set **per-item permissions**: read-only for some, read-write for others, invisible for those who don't need to know.
 
 ### 📦 Moving Mode with QR Codes
